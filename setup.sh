@@ -68,7 +68,7 @@ echo " "
 until [[ $name =~ ^[a-zA-Z0-9_.-]+$ ]]; do
 read -rp "Masukan Nama Kamu Disini tanpa spasi : " -e name
 done
-echo "RIZKITUNNEL" > /etc/xray/username
+echo "PLATZTUNNEL" > /etc/xray/username
 echo ""
 clear
 author=$name

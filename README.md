@@ -28,7 +28,7 @@
 </code></pre>
 
 ### PERINTAH UPDATE 
-<pre><code>wget -q https://raw.githubusercontent.com/rizki12345/os/main/menu/update.sh && chmod +x update.sh && ./update.sh</code></pre>
+<pre><code>wget -q https://raw.githubusercontent.com/riski12345/os/main/menu/update.sh && chmod +x update.sh && ./update.sh</code></pre>
 
 
 ### TESTED ON OS 

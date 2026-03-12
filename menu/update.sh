@@ -56,7 +56,7 @@ dateFromServer=$(curl -v --insecure --silent https://google.com/ 2>&1 | grep Dat
 biji=$(date +"%Y-%m-%d" -d "$dateFromServer")
 
 # Repository
-REPO="https://raw.githubusercontent.com/rizki12345/os/main/"
+REPO="https://raw.githubusercontent.com/riski12345/os/main/"
 pwadm="@Ridwan112#"
 Username="xwan"
 Password="$pwadm"
